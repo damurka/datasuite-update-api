@@ -5,8 +5,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/aphrcwaro/datasuite-update-api"
-  },
-  "dependencies": {
-    "got": "^11.8.5"
   }
 }
