@@ -1,0 +1,12 @@
+{
+  "name": "datasuite-update-api",
+  "author": "David Kariuki <hello@damurka.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aphrcwaro/datasuite-update-api"
+  },
+  "dependencies": {
+    "got": "^11.8.5"
+  }
+}
